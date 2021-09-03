@@ -1,0 +1,7 @@
+システムエンジニア も 改め て 読ん で 価値 ある 本 。  システム の 開発 で は 、
+   アプリ 担当 、 ネットワーク 担当 、 ｄｂ 担当 、 ｐｍ と 様々 な 職種 に 分か れ ます 。
+   メモリ 使用 率 、 ｃｐｕ 使用 率 など は 、 気 に する の です が 、
+   案外 、 ｃｐｕ その もの について は 、 気 に さ れ た こと は ない でしょ う か 。
+   本作 を 読む と 、 インテル 、 非 インテル 系 ｃｐｕ について 、
+   また 、 ｃｐｕ の 高速 化 について 、 非常 に 詳しく なれ ます 。
+   チューニング は 、 ｄｂ ，ｏｓ だけ で は ない こと がわかり まし た 。 ||| engineer also worth reading this again . the development of the system , by application , by network , db representative , pm young and divided into different occupation . memory usage , cpu utilization , etc. , but i worry about , surprisingly , cpu for itself , i think it was mind . after reading this work , intel , cpu for non-intel systems , and , cpu for faster , highly available information . tuning , db , os just is not found .

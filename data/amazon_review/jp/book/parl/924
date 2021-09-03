@@ -1,0 +1,6 @@
+c 言語 ＋cgi   の 情報 は 有難い が ， コード が 酷い  c 言語 ＋cgi という 組み合わせ は 以外 と 情報 が 少ない の で ， 本書 の 情報 は 助かる の です が ，
+   コード が 酷い です 。
+   酷さ について は 他 の 方 が 既 に 記載 し て 下さっ て い ます ので 割愛 し ます が ，
+  「 c プログラミング 診断 室 」 に 渡す と それ なり に 面白 い 指摘 が 出る レベル です 。
+   本書 で 使える 部分 は ，c 言語 で cgi を 使う ため の i /f 部分 と db の i /fくらい でしょ う か 。
+   あと ， ２ バイト 文字 の 扱い 部分 も 役立 つかも 知れ ない です 。 ||| language c + cgi information is nice , terrible code since language is a combination of c + cgi and less information than the information in this book i appreciate , the code is terrible . for the severe , but it is beyond the scope下satsu other people have already mentioned , `` c programming exam room '' is a decent level to get pass the interesting point . this book is available in parts , c language to use cgi i / f portion of the db i / f i only . after a two-part may also help treat byte characters .

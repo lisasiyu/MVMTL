@@ -1,0 +1,23 @@
+export CUDA_VISIBLE_DEVICES=1
+python -u main.py \
+--exp_name ende \
+--task sc \
+--domain music \
+--exp_id 1 \
+--multi_view \
+--loss_func kl \
+--max_length 256 \
+--trans_lang de \
+--dynamic_mix \
+--mix_train \
+--batch_size 12 \
+--lr 1e-6 \
+--weight_decay 0.0001 \
+--kl1 5 \
+--dropout 0.5 \
+--ptm_folder xlm-roberta-base \
+--embed_size 768 \
+--hidden_size 768 \
+--dynamic_ratio 0.7 \
+--dev_ratio 0.8 \
+--mapping_for_mix dict/sc_dict/new_music/en2de_20000_onto_for_mix.dict

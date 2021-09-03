@@ -1,0 +1,23 @@
+export CUDA_VISIBLE_DEVICES=1
+python -u main.py \
+--exp_name enit \
+--exp_id 218 \
+--trans_lang it \
+--dynamic_mix \
+--mix_train \
+--saliency \
+--model_type dual \
+--batch_size 4 \
+--lr 1e-5 \
+--bidirection \
+--ptm_folder xlm-roberta-base \
+--embed_size 768 \
+--hidden_size 768 \
+--dynamic_ratio 0.5 \
+--dev_ratio 0.75 \
+--dropout 0.6 \
+--kl1 1.0 \
+--kl2 1.0 \
+--mapping_for_mix data/dst/dst_vocab/en2it_muse_onto_for_mix.dict \
+--saliency_train_path saliency/enit/saliency_train_sigmoid0.5_result.json \
+--saliency_dev_path saliency/enit/saliency_dev_sigmoid0.5_result.json
