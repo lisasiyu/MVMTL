@@ -1,5 +1,6 @@
 # MVMLT
 Code for EMNLP2021 findings "Saliency-based Multi-View Mixed Language Training for Zero-shot Cross-lingual Classification"
+https://aclanthology.org/2021.findings-emnlp.55/
 
 ## Requirments
 pip install requirements.txt
