@@ -62,5 +62,24 @@ python -u main.py \
 --kl1 1.0 \
 --mapping_for_mix data/dst/dst_vocab/en2de_muse_onto_for_mix.dict
 ```
-
+###Citation
+Please cite the following paper if you use the code:
+```
+@inproceedings{lai-etal-2021-saliency-based,
+    title = "Saliency-based Multi-View Mixed Language Training for Zero-shot Cross-lingual Classification",
+    author = "Lai, Siyu  and
+      Huang, Hui  and
+      Jing, Dong  and
+      Chen, Yufeng  and
+      Xu, Jinan  and
+      Liu, Jian",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-emnlp.55",
+    pages = "599--610",
+}
+```
 
